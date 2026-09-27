@@ -1,0 +1,41 @@
+{
+  "certificate": {
+    "id": "e06f86287a24a021",
+    "reader": {
+      "id": 16739040,
+      "login": "fijisoo"
+    },
+    "chapter": "/foundations/",
+    "title": {
+      "en": "Foundations",
+      "pl": "Podstawy"
+    },
+    "lessons": [
+      {
+        "path": "/foundations/what-is-machine-learning/",
+        "title": {
+          "en": "What is machine learning?",
+          "pl": "Czym jest uczenie maszynowe?"
+        }
+      },
+      {
+        "path": "/foundations/linear-regression/",
+        "title": {
+          "en": "Linear regression",
+          "pl": "Regresja liniowa"
+        }
+      }
+    ],
+    "passed": {
+      "at": "2026-09-25T17:48:27.644Z",
+      "score": 1,
+      "right": 10,
+      "questions": 10,
+      "passed": true,
+      "version": "5d1bfbe133e6ac48"
+    },
+    "issued": "2026-09-25T17:48:27.644Z",
+    "site": "https://mlfirestarter.netlify.app"
+  },
+  "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6IkRKcW5jY0tHcjZOUEduQ3E4YzhYNzBZeTZGNWs4VHJybXI1bldGSHVkUEkifQ.eyJpZCI6ImUwNmY4NjI4N2EyNGEwMjEiLCJyZWFkZXIiOnsiaWQiOjE2NzM5MDQwLCJsb2dpbiI6ImZpamlzb28ifSwiY2hhcHRlciI6Ii9mb3VuZGF0aW9ucy8iLCJ0aXRsZSI6eyJlbiI6IkZvdW5kYXRpb25zIiwicGwiOiJQb2RzdGF3eSJ9LCJsZXNzb25zIjpbeyJwYXRoIjoiL2ZvdW5kYXRpb25zL3doYXQtaXMtbWFjaGluZS1sZWFybmluZy8iLCJ0aXRsZSI6eyJlbiI6IldoYXQgaXMgbWFjaGluZSBsZWFybmluZz8iLCJwbCI6IkN6eW0gamVzdCB1Y3plbmllIG1hc3p5bm93ZT8ifX0seyJwYXRoIjoiL2ZvdW5kYXRpb25zL2xpbmVhci1yZWdyZXNzaW9uLyIsInRpdGxlIjp7ImVuIjoiTGluZWFyIHJlZ3Jlc3Npb24iLCJwbCI6IlJlZ3Jlc2phIGxpbmlvd2EifX1dLCJwYXNzZWQiOnsiYXQiOiIyMDI2LTA5LTI1VDE3OjQ4OjI3LjY0NFoiLCJzY29yZSI6MSwicmlnaHQiOjEwLCJxdWVzdGlvbnMiOjEwLCJwYXNzZWQiOnRydWUsInZlcnNpb24iOiI1ZDFiZmJlMTMzZTZhYzQ4In0sImlzc3VlZCI6IjIwMjYtMDktMjVUMTc6NDg6MjcuNjQ0WiIsInNpdGUiOiJodHRwczovL21sZmlyZXN0YXJ0ZXIubmV0bGlmeS5hcHAifQ.hk5kZ0I3g14KuZCv96vX7gpRTAeVIqkCgIVldIkI9aBu-irOTjHts-JtuM2Lv6Hs26t4fqigaR30p9yuOzi7DQ"
+}
